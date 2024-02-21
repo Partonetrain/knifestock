@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:debug_stick",
+      "required": true
+    },
+    {
+      "id": "#c:tools/knives",
+      "required": false
+    },
+    {
+      "id": "#c:knives",
+      "required": false
+    }
+  ]
+}
